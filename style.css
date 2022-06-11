@@ -87,6 +87,10 @@ a{
     padding-left: 10px;
 }
 
+
+#mobile { display: none; }
+
+
 /* media queres */
 @media(max-width:780px){
     .grid-2{
@@ -102,8 +106,6 @@ a{
         padding-top: 2rem;
     }
 }
-
-#mobile { display: none; }
 
 @media screen and (min-width:480px)  {
 #desktop { display: none !important; } #mobile { display: block !important; }
