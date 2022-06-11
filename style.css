@@ -93,7 +93,7 @@ a{
 
 /* media queres */
 
-@media screen and (min-width:480px)  {
+@media screen and (max-width:480px)  {
 #desktop { display: none !important; } #mobile { display: block !important; }
 }
 
